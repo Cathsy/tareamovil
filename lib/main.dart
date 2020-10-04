@@ -167,7 +167,7 @@ class MyApp extends StatelessWidget {
                     ),
                   ),
                 ),
-              ),
+              ),//AQUÍ SE AGREGA LA NUEVA CARD
               Card(
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.only(
